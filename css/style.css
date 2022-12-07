@@ -11,7 +11,10 @@ html {
     margin: 0 auto;
     max-width: 400px;
     padding: 20px;
-    background-color: darkseagreen;
+    background-image: url("../Images/cc.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .form {
@@ -20,7 +23,7 @@ html {
 }
 
 .form__header {
-    color: #439243;
+    color: #063006;
     text-align: center;
 }
 
@@ -50,7 +53,7 @@ html {
 }
 
 .form__result {
-    color: #125612;
+    color: #042204;
     text-align: center;
     font-size: 25px;
 }
