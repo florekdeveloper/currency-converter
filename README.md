@@ -1,6 +1,13 @@
 # Currency-Converter
 
+![marcin](/Images/cc.jpg)
+
 ## Demo
 https://florekdeveloper.github.io/currency-converter/
 
-## Simple and easy to use 
+## Technologies 
+
+- HTML
+- CSS
+- JAVA SCRIPT
+- BEM
