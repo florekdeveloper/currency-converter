@@ -12,8 +12,8 @@ html {
     max-width: 400px;
     min-height: 80vh;
     padding: 10px;
-    background-image: url("../Images/cc.jpg");
-    background-position: center;
+    background-image: url("../Images/cc1.jpg");
+    background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -24,7 +24,7 @@ html {
 }
 
 .form__header {
-    color: #063006;
+    color: #300d06;
     text-align: center;
 }
 
@@ -45,7 +45,7 @@ html {
 
 .form__button {
     width: 100%;
-    color: crimson;
+    color: rgb(71, 6, 19);
     background-color: rgb(170, 189, 166);
     max-width: 400px;
     border-radius: 10px;
@@ -54,7 +54,7 @@ html {
 }
 
 .form__result {
-    color: #042204;
+    color: #220804;
     text-align: center;
     font-size: 25px;
 }
