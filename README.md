@@ -5,6 +5,10 @@
 ## Demo
 https://florekdeveloper.github.io/currency-converter/
 
+## View
+
+![marcin](/Images/AnimationCC.gif)
+
 ## Technologies 
 
 - HTML
